@@ -43,3 +43,6 @@ vignettes/*.pdf
 
 #Ignore Temporary Microsoft Office Files
 */~*
+
+#Ignore manuscript folder
+manuscript/
